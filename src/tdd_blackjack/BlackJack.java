@@ -11,7 +11,7 @@ public class BlackJack {
     private List<Player> players;
     private List<Card> deck;
     
-    Player croupier;
+    private Player croupier;
     
     
     
